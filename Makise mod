@@ -1,0 +1,15 @@
+// [Have to be placed before the Electrocute (LMB) change]
+
+// Add Electrify to (B) After Thunderball (B) 
+
+Search = <result context-2="222050" control-mode="bns" skillbar-ui-effect="event" />NewLine            </decision>NewLine          </layer>
+Replace = <result context-2="222050" control-mode="bns" skillbar-ui-effect="event" />NewLine            </decision>NewLine          </layer> <layer> <decision> <condition skill="222030" skillbar-ui-effect="event" /> <result special-2="222030" control-mode="classic" skillbar-ui-effect="event" /> <result special-2="222030" control-mode="bns" /> </decision> </layer>
+
+Search = <result context-2="222050" control-mode="bns" skillbar-ui-effect="event" />NewLine            </decision>NewLine          </layer>
+Replace = <result context-2="222050" control-mode="bns" skillbar-ui-effect="event" />NewLine            </decision>NewLine          </layer> <layer> <decision> <condition skill="222033" skillbar-ui-effect="event" /> <result special-2="222033" control-mode="classic" skillbar-ui-effect="event" /> <result special-2="222033" control-mode="bns" /> </decision> </layer>
+
+Search = <result context-2="222050" control-mode="bns" skillbar-ui-effect="event" />NewLine            </decision>NewLine          </layer>
+Replace = <result context-2="222050" control-mode="bns" skillbar-ui-effect="event" />NewLine            </decision>NewLine          </layer> <layer> <decision> <condition skill="222032" skillbar-ui-effect="event" /> <result special-2="222032" control-mode="classic" skillbar-ui-effect="event" /> <result special-2="222032" control-mode="bns" /> </decision> </layer>
+
+Search = <result context-2="222050" control-mode="bns" skillbar-ui-effect="event" />NewLine            </decision>NewLine          </layer>
+Replace = <result context-2="222050" control-mode="bns" skillbar-ui-effect="event" />NewLine            </decision>NewLine          </layer> <layer> <decision> <condition skill="222031" skillbar-ui-effect="event" /> <result special-2="222031" control-mode="classic" skillbar-ui-effect="event" /> <result special-2="222031" control-mode="bns" /> </decision> </layer>
